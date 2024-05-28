@@ -134,7 +134,7 @@ main {
     border-radius: 15px;
 }
 
-.video-player img {
+.video-player iframe {
     width: 60vw;
     border-radius: 15px;
 }
@@ -165,7 +165,7 @@ main {
     position: relative;
 }
 
-.start>img {
+.start a>img {
     width: 40px;
     height: 40px;
     border-radius: 50%;
