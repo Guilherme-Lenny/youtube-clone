@@ -8,6 +8,6 @@ Seja criativo(a) e dê a sua identidade para o Projeto. Lembre-se que para um(a)
 Link do Figma
 Aqui deixamos o link do Design no Figma apresentado pela Expert durante o Desafio para que você o tenha como referência:
 
-<a href="https://www.figma.com/design/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0-1&t=XpbZT77AiTcEpi8J-0" target="_blank">Desafio de Flexbox</a>
+<a href="https://www.figma.com/design/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0-1&t=XpbZT77AiTcEpi8J-0">Desafio de Flexbox</a>
 
 Bons estudos
